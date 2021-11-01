@@ -1,0 +1,26 @@
+body{
+    background-image: url("img/BANNER.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.max-width{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+h1{
+    color: #fff;
+    margin-left: 386px;
+    font-size: 70px;
+}
+
+.History{
+    color: #fff;
+    font-size: 30px;
+    margin-left: 490px;
+}
+
+
